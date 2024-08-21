@@ -6,11 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves designing, developing, testing, deploying, and maintaining software products. Its importance in the technology industry lies in its ability to create reliable, scalable, and innovative software applications that power various aspects of modern life, such as communication, commerce, entertainment, and healthcare​.
+Software engineering is the systematic application of engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves designing, developing, testing, deploying, and maintaining software products. Its importance in the technology industry lies in its ability to create reliable, scalable, and innovative software applications that power various aspects of modern life, such as communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-The development of the first digital computers in the 1940s and 1950s. The establishment of software engineering as a discipline in the 1960s. The advent of structured programming in the 1970s. The rise of agile methodologies in the 2000s.
+The development of the first digital computers in the 1940s and 1950s. Software engineering was established as a discipline in the 1960s. The advent of structured programming in the 1970s. The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
